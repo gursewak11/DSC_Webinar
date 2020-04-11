@@ -1,0 +1,18 @@
+*{
+  --color: #439284;
+}
+
+.heading{
+  height: 400px;
+  width: 500px;
+  margin: 1em auto;
+  padding: 1em;
+  color: #fff;
+  background-color: var(--color);
+}
+
+.text-to-be-display{
+  padding: 1em;
+  border: 0.2em solid red;
+  border-radius: 10px;
+}
